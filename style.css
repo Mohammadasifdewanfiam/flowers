@@ -1,0 +1,123 @@
+/* header part-1st part */
+.flower-first-start{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    width: 80px 50px;
+    height: 87vh;
+}
+.flower-first-theories{
+    padding: 60px 10px 10px 110px;
+    
+
+}
+.first-title{
+    color: #272727;
+    font-size: 55px;
+    font-weight: 800;
+    font-family: Lato;
+}
+.first-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Lato;
+}
+.flower-pic1{
+    margin-right: 90px;
+}
+
+.flower-btn{
+    border-radius: 3px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    border: 0;
+    padding: 8px 11px;
+    font-family: Lato;
+}
+.title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 800;
+}
+.title-discrip{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family:lato;
+font-size: 14px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+
+/* feature flower part--2part */
+.about-feature-flower{
+    text-align: center;
+    margin: 100px 100px 30px 100px;
+}
+.feature-flower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.size-reduction-of-pic{
+    width: 230px;
+    height: 280px;
+
+}
+.first-feature {
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 60px 40px 0px 40px;
+}
+.second-feature{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 60px 40px 5px 40px;
+}
+.third-feature{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 60px 40px 0px 40px;
+}
+ /* for underline words */
+.pinkish-tree{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pinks{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.info-flowers{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 50px 38px;
+    padding: 40px 20px 35px 20px;
+    
+}
+.icons{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
