@@ -257,6 +257,94 @@ font-weight: 400;
 
 
 
+.yellow,.red{
+    display: flex;
+   justify-content:space-evenly;
+    
+    
+}
+.pic-tuli{
+    width: 100px;
+    height: 100px;
+    margin: 10px 20px;
+    
+   
+}
+.pic-of-flo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(136, 177, 10, 0.15);
+    padding: 30px 40px;
+
+   
+}
+.pic-of-floo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(226, 100, 10, 0.15);
+    padding: 30px 40px;
+   
+}
+.pic-of-flooo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 30px 40px;
+
+}
+.pic-of-floooo{
+    border-radius: 100px 100px 100px 100px;
+    background: rgba(11, 213, 216, 0.15);
+    padding: 30px 40px;
+}
+.time,.timee{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.antim{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    margin: 10px 10px 60px 70px;
+    padding-bottom: 40px;
+    padding-left: 34px;
+  
+    
+}
+.kumro-ful{
+    margin: 80px 80px;
+}
+footer{
+    background-color:#111010;
+    color: white;
+    text-align: center;
+    padding: 50px 0px;
+}
+.toki{
+    color: #E55473;
+}
+.hii{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+}
+.pera{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 14px;
+font-weight: 400;
+}
+.hi{
+font-family: Lato;
+font-size: 38px;
+font-weight: 800;
+
+}
+
+
+
+
 
 
 
