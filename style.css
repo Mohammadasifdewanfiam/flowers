@@ -28,7 +28,7 @@
 }
 
 .flower-btn{
-    border-radius: 3px;
+    border-radius: 5px;
     background: #E55473;
     color: #FFF;
     font-size: 18px;
@@ -111,9 +111,149 @@ margin-bottom: 30px;
     width: 50px;
     height: 50px;
 }
+/* for sales part */
+.sale-cointainer{
+    display: flex;
+    justify-content:center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 40px 30px;
+    height: 60vh;
+    margin-bottom: 50px;
+}
+.sales-flower{
+    width: 150px;
+    height: 250px;
+    padding-top: 40px;
 
 
+}
+.sales{
+    padding: 90px 90px 90px 40px;
+    text-align: center;
+}
+.sales-strategy{
+    color: #272727;
+   font-family: Lato;
+   font-size: 30px;
+   font-weight: 800;
 
+
+}
+.sales-discription{
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+}
+.pink-color{
+    color: #E55473;
+}
+.adding-photo{
+    display: flex;
+   justify-content: center;
+    gap:10px;
+}
+.photos{
+    width: 245px;
+    height: 300px;
+}
+.photo-coin{
+    text-align: center;
+   margin: 50px 35px;
+}
+.insta{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+font-weight: 800;
+
+      
+}
+.insta-story{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+margin-bottom: 20px;
+}
+ .background{
+
+    background-image: url("./Flower\ Asset/Rectangle 9.png");
+    background-size: 1020px;
+    background-repeat: no-repeat;
+    width:1010px;
+    height: 450px;
+    justify-content: center;
+    margin-left: 119px;
+   
+
+}
+.CLASS{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+    
+
+   
+}
+.NO-CLASS{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+   
+}
+.content input[type="email"]{
+    border-radius: 8px;
+    background: #FFF;
+    width: 500px;
+    height: 34px;
+    margin-left: 210px;
+    margin-top: 20px;
+} 
+.best-cointainer{
+    display: flex;
+    justify-content:center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 40px 30px;
+    height: 60vh;
+    margin-bottom: 50px;
+}
+.best-sales-flower{
+    width: 150px;
+    height: 250px;
+    padding-top: 40px;
+
+
+}
+.best-sales{
+    padding: 90px 90px 90px 40px;
+    text-align: center;
+}
+.best-sales-title{
+    color: #272727;
+   font-family: Lato;
+   font-size: 30px;
+   font-weight: 800;
+
+
+}
+.best-sales-discription{
+ color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-weight: 400;
+}
 
 
 
