@@ -1,3 +1,9 @@
+*{
+    margin: 0px;
+    font-family: 'Lato';
+
+
+}
 /* header part-1st part */
 .flower-first-start{
     display: flex;
@@ -15,13 +21,13 @@
     color: #272727;
     font-size: 55px;
     font-weight: 800;
-    font-family: Lato;
 }
 .first-discription{
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
     font-weight: 400;
-    font-family: Lato;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .flower-pic1{
     margin-right: 90px;
@@ -35,19 +41,16 @@
     font-weight: 700;
     border: 0;
     padding: 8px 11px;
-    font-family: Lato;
 }
 .title{
     color: #272727;
-    text-align: center;
-    font-family: Lato;
+    text-align: center;;
     font-size: 32px;
     font-weight: 800;
 }
 .title-discrip{
 color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family:lato;
 font-size: 14px;
 font-weight: 400;
 margin-bottom: 30px;
@@ -84,19 +87,43 @@ margin-bottom: 30px;
     background: rgba(71, 125, 17, 0.15);
     padding: 60px 40px 0px 40px;
 }
+.title-discrip{
+    padding-top: 8px;
+}
  /* for underline words */
 .pinkish-tree{
     display: flex;
-    justify-content: space-around;
+    
     
 }
 .pinks{
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 16px;
     font-weight: 700;
     text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left: 200px;
+    
+   
+}
+.pinkss{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left:150px;
+}
+.pinksss{
+    color: #272727;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 10pxS;
+    margin-left: 210px ;
 }
 .info-flowers{
     display: flex;
@@ -134,7 +161,6 @@ margin-bottom: 30px;
 }
 .sales-strategy{
     color: #272727;
-   font-family: Lato;
    font-size: 30px;
    font-weight: 800;
 
@@ -143,9 +169,10 @@ margin-bottom: 30px;
 .sales-discription{
  color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family: Lato;
 font-size: 12px;
 font-weight: 400;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 .pink-color{
     color: #E55473;
@@ -166,7 +193,6 @@ font-weight: 400;
 .insta{
 color: #272727;
 text-align: center;
-font-family: Lato;
 font-size: 30px;
 font-weight: 800;
 
@@ -175,10 +201,10 @@ font-weight: 800;
 .insta-story{
 color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family: Lato;
 font-size: 12px;
 font-weight: 400;
 margin-bottom: 20px;
+margin-top: 10px;
 }
  .background{
 
@@ -194,7 +220,6 @@ margin-bottom: 20px;
 }
 .CLASS{
     color: #272727;
-    font-family: Lato;
     font-size: 30px;
     font-weight: 800;
     text-align: center;
@@ -205,10 +230,10 @@ margin-bottom: 20px;
 }
 .NO-CLASS{
     color: rgba(39, 39, 39, 0.60);
-    font-family: Lato;
     font-size: 12px;
     font-weight: 400;
     text-align: center;
+    padding-top: 10px;
    
 }
 .content input[type="email"]{
@@ -218,6 +243,7 @@ margin-bottom: 20px;
     height: 34px;
     margin-left: 210px;
     margin-top: 20px;
+    border: 0;
 } 
 .best-cointainer{
     display: flex;
@@ -241,7 +267,6 @@ margin-bottom: 20px;
 }
 .best-sales-title{
     color: #272727;
-   font-family: Lato;
    font-size: 30px;
    font-weight: 800;
 
@@ -250,9 +275,10 @@ margin-bottom: 20px;
 .best-sales-discription{
  color: rgba(39, 39, 39, 0.60);
 text-align: center;
-font-family: Lato;
 font-size: 12px;
 font-weight: 400;
+padding-top: 10px ;
+padding-bottom: 10px;
 }
 
 
@@ -334,6 +360,8 @@ text-align: center;
 font-family: Lato;
 font-size: 14px;
 font-weight: 400;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 .hi{
 font-family: Lato;
